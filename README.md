@@ -2,9 +2,9 @@
 
 
 * Install "Docker for Windows" or Docker Toolbox
-* Install Git
-* Install VS Code
-  * Install Plugin Docker , PowerShell
+* Install Git (version 2.15.1.windows.2)
+* Install VS Code (1.19)
+  * Install Plugin Docker , PowerShell on VS Code
   * Setup docker Registry (input your credential)
 
 * Create PS1 Script for starting VS Code
